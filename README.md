@@ -1,11 +1,5 @@
 # Research Project Template
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-
-A structured template for data science and research projects that provides a clear separation between exploratory analysis and production pipelines. This template promotes reproducibility, organization, and collaborative development.
-
 ## Key Features
 
 - **Modular Analysis Structure**: Separate notebooks for individual analyses with dedicated data storage
